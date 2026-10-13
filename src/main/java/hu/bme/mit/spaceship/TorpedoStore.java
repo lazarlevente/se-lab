@@ -60,3 +60,4 @@ public class TorpedoStore {
     return this.torpedoCount;
   }
 }
+//Complied with the save and re-use rule with Sonarcube
